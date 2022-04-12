@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+div {
+  width: 40vw;
+  height: 20%;
+
+  border: 3px solid rgb(181, 181, 181);
+  border-radius: 10px;
+  background-color: #4f6ece;
+}
